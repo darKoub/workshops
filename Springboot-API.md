@@ -26,7 +26,7 @@ You will learn the basics of Spring Framework and why it is so popular and power
 After successful completion of this course, you will be able to:
 * Set-up working environment for developing a java application. (Installing IntelliJ Idea , JDK). 
 * understand the basic of Restful Webservices.
-* work with Rest client (testing your Restful API).
+* work with Rest client using Postman(testing your Restful API).
 * Undestand 3 layer application architecure (Controller , Service , Data access)
 * Develop a Springboot application using Spring Starter.
 * Design and build a resful webservice (API from scratch using Spring Framework). 
