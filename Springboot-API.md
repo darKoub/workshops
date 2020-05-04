@@ -1,6 +1,6 @@
 # Workshop : Springboot Java Restful webservice 
 
-This course will cover building a restful API connection to a no/SQL database (Mongo DB) 
+This course will cover building a restful API using Java Sprinboot and integrating it with a Mongo DB. 
 
   
 ## Course Description 
@@ -24,16 +24,18 @@ You will learn the basics of Spring Framework and why it is so popular and power
   
 ## Program outcomes
 After successful completion of this course, you will be able to:
+* Set-up working environment for developing a java application. (Installing IntelliJ Idea , JDK). 
 * understand the basic of Restful Webservices.
 * work with Rest client (testing your Restful API).
+* Undestand 3 layer application architecure (Controller , Service , Data access)
 * Develop a Springboot application using Spring Starter.
 * Design and build a resful webservice (API from scratch using Spring Framework). 
 * Stand up MongoDB instances on MongoDB Cloud. 
 * Undestand the basics of No-SQL databases ( Collections , Documents , Feilds).
-* Understand the value of unit testing and how to automate testing your Springboot Rest API. 
+* Understand the value of unit testing and how to automate testing your Springboot Rest API using JUnit and Mockito.  
 
 ## Next Step
-**In the next series of workshops we will go all cloud. We will turn our Rest API into a _Cloud-Native_ application, deploying it on Microsoft Azure** 
+**In the next series of workshops we will go all cloud . We will turn our Rest API into a _Cloud-Native_ application, deploying it on _Microsoft Azure_** 
 
 
 
