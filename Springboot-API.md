@@ -5,13 +5,13 @@ This course will cover building a restful API using Java Sprinboot and integrati
   
 ## Course Description 
 
-In this course we use popular and tools and framework used in enterprise software development to build a working API which interacts with a MongoDB data store. 
+In this course we use popular tools and framework to build a working API which interacts with a MongoDB data store. The tools are selected based on populraity on enterprise-level application development. 
 
 ### Spring Framework
 
 [Spring Framework](https://spring.io "Spring Framework") is the most poplular application development framework for developing enterprise software applications. 
 
-It is built on top of Java Enterprise Edition frawework and used by milion of developers to build resillient , high-performing , sclable , maintanable applications worldwide. 
+It is built on top of Java Enterprise Edition frawework and used by milion of developers to build resillient , high-performing , scalable , maintanable applications worldwide. 
 
 You will learn the basics of Spring Framework and why it is so popular and powerfull. 
 
