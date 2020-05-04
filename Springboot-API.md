@@ -35,7 +35,7 @@ After successful completion of this course, you will be able to:
 * Understand the value of unit testing and how to automate testing your Springboot Rest API using JUnit and Mockito.  
 
 ## Next Step
-**In the next series of workshops we will go all cloud . We will turn our Springboot Rest API into a _Cloud-Native_ application, deploying it on _Microsoft Azure_** 
+**In the next series of workshops we will go all cloud . We will turn our Springboot Rest API into a _Cloud-Native_ application, deploying it on _Microsoft Azure_** . Then We look into buidling Micorservices using Sping Cloud. 
 
 
 
