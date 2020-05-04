@@ -19,7 +19,7 @@ You will learn the basics of Spring Framework and why it is so popular and power
 [MongoDB](https://www.mongodb.com "MongoDB") is the most popular no-sql database outthere. We will create an instance on MongoDB Cloud and then connect to it from our Java API. 
 
 ## Requirements 
-  - Basic Java programming
+  - Basic Java programming knowledge
   - Basic database design
   
 ## Program outcomes
