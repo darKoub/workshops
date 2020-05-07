@@ -40,3 +40,4 @@
 
 ## Session 5 : Java Collections 
 ## Session 6 : Exception Handling and debugging
+## Session 7 : Working with HTTP and JSON
