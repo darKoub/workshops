@@ -1,3 +1,13 @@
+# Course Description
+  We will learn basic of Java SE 11+ and will write and learn your first java program. 
+### Requirements
+- Basic programming knowledge
+- no Java knowledge required
+### Program outcomes
+After successful completion of this course, you will be able to:
+- Set-up working environment for developing a java application. (Installing IntelliJ Idea , JDK).
+- Develop basic java applications using Java Standard Edition 11+.
+
 # Java 11+ Basic
 ## Session 1 : Java intro
 - Java Virtual Machine : JVM 
