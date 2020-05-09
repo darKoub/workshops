@@ -6,10 +6,14 @@
 ### Program outcomes
 After successful completion of this course, you will be able to:
 - Set-up working environment for developing a java application. (Installing IntelliJ Idea , JDK).
+- Understand the Java Standard Editions
+- Understand java programming language syntax
 - Develop basic java applications using Java Standard Edition 11+.
 
 # Java 11+ Basic
 ## Session 1 : Java intro
+- Java careers roadmap
+- Workshop series roadmap toward full-fledged cloud-native working application
 - Java Virtual Machine : JVM 
 - JDK vs JRE 
 - Development environment - install your IDE 
